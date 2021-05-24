@@ -10,3 +10,15 @@ do CRUD operations
 neatly organize the classes
 connect to mysql
 
+
+1:15 pm 5/24/2021 
+Pushed first update
+calculator working 
+tests working
+
+tasks remaining:
+CRUD operations
+MySQL Database
+
+
+
